@@ -24,15 +24,13 @@ jobs:
       - name: Setup Node.js 🔧
         uses: actions/setup-node@v3.8.1
         with:
-          node-version: 18.x
-
-      - name: Update npm 🚀
-        run: npm install -g npm@latest
+          node-version: '20'
 
       - name: Install and Build 🔧 # Build the Project
         run: |
-          npm install
+          npm ci
           npm run build
+          
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
