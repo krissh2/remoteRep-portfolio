@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/remoteRep-portfolio/static/css/main.439ab577.css",
-    "main.js": "/remoteRep-portfolio/static/js/main.cd9315aa.js",
+    "main.js": "/remoteRep-portfolio/static/js/main.7c7255fb.js",
     "static/css/64.bba8fa55.chunk.css": "/remoteRep-portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/remoteRep-portfolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/remoteRep-portfolio/static/css/769.b3cbb36b.chunk.css",
@@ -22,7 +22,7 @@
     "index.html": "/remoteRep-portfolio/index.html",
     "static/media/talksCardBack.svg": "/remoteRep-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.439ab577.css.map": "/remoteRep-portfolio/static/css/main.439ab577.css.map",
-    "main.cd9315aa.js.map": "/remoteRep-portfolio/static/js/main.cd9315aa.js.map",
+    "main.7c7255fb.js.map": "/remoteRep-portfolio/static/js/main.7c7255fb.js.map",
     "64.bba8fa55.chunk.css.map": "/remoteRep-portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/remoteRep-portfolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/remoteRep-portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.439ab577.css",
-    "static/js/main.cd9315aa.js"
+    "static/js/main.7c7255fb.js"
   ]
 }
