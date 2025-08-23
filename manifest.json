@@ -3,20 +3,24 @@
   "name": "DeveloperFolio",
   "icons": [
     {
-      "src": "/favicon.ico?v=3",
+      "src": "favicon.ico?v=3",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "/android-chrome-192x192.png?v=3",
+      "src": "android-chrome-192x192.png?v=3",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/android-chrome-384x384.png?v=3",
+      "src": "android-chrome-384x384.png?v=3",
       "type": "image/png",
       "sizes": "384x384"
-    }
+    },
+
+    { "src": "android-chrome-512x512.png?v=3", 
+    "sizes": "512x512", 
+    "type": "image/png" }
   ],
   "start_url": ".",
   "display": "standalone",
